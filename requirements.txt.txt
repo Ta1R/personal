@@ -1,0 +1,4 @@
+pip install django==3.1
+pip install mysqlclient
+import numpy as np
+pip install joblib
